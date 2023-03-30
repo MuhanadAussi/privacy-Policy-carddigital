@@ -44,3 +44,12 @@ const String onlineAppTerms10="- Upon deleting the account, all services will be
 - Our application or website may not respond to entering any application or website, and this is related to two main reasons:
 1. The user has previously entered inaccurate or incorrect data or accounts.
 2. Malfunction of the third party application or website at that moment whether it is a server error or a system error.
+
+
+
+
+"URL Scheme for developers"
+- In the event that the application Card Digital is already installed on the device, the link will open the account page through the application, but in the event that the application has not been installed on the phone, the link will open the account page direct to our website.
+- If you want to go in directly to anyone's account in our application Card Digital or website, you only need to add hash (XXXXX) to link (https://p1.rs/).
+- Like that https://p1.rs/hash
+- Example: hash is XXXXX must be https://p1.rs/XXXXX
