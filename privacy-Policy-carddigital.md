@@ -12,8 +12,8 @@ Card Digital Business App
 Business card problems are many, including restriction to a specific design or insufficient specific information. Perhaps your phone number or workplace has been changed. This is a problem to be solved by printing new business cards and destroying all old business cards. Has it ever happened to you that you lost an important business card and you searched for it and did not find it? The solution is to adopt only one smart business card through which you can easily put all the information that you want to display on your personal page and you can easily send your account link to anyone you want or through a scanner or by Qr scanning the card with any phone that has an operating system NFC. We have tried with all our efforts to collect all the popular applications and websites in all fields and make them on one profile.
 
 "Online App and website terms"
-- The application needs to use the camera and access your photos for the purpose of saving your personal photo or your company logo, and you have the choice to show the photo to everyone or hide it.
-- The app needs to use the location of your address or your company's address, and you have the option to show the location to everyone or hide it.
+- The application Card Digital needs to use the camera and access your photos for the purpose of saving your personal photo or your company logo, and you have the choice to show the photo to everyone or hide it.
+- The app Card Digital needs to use the location of your address or your company's address, and you have the option to show the location to everyone or hide it.
 - You affirm that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your approval to enable any of your minor dependents to use this site. You may not use our products for any illegal or improper purpose, nor may you violate any local laws while using the Service including but not limited to copyright laws. You are not permitted to transmit or upload any malware, viruses, or other disruptive programs or suspicious applications or websites. Any violation of these Terms will result in the immediate suspension of your Services.
 - We have the right to deny service to anybody at any time for any reason.
 - You acknowledge that your content (except credit card information and online payment) it is available to everyone.
@@ -39,7 +39,7 @@ const String onlineAppTerms10="- Upon deleting the account, all services will be
 
 
 "System errors"
-There are three main reasons that cause errors in the application system or the web page, please pay close attention to them:
+- There are three main reasons that cause errors in the application system or the web page, please pay close attention to them:
 - When using our products, whether it is an card digital business or any other product of this kind, the smartphone must have available Wi-Fi or mobile data.
 - Our application or website may not respond to entering any application or website, and this is related to two main reasons:
 1. The user has previously entered inaccurate or incorrect data or accounts.
