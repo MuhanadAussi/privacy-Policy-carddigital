@@ -53,3 +53,13 @@ const String onlineAppTerms10="- Upon deleting the account, all services will be
 - If you want to go in directly to anyone's account in our application Card Digital or website, you only need to add hash (XXXXX) to link (https://p1.rs/).
 - Like that https://p1.rs/hash
 - Example: hash is XXXXX must be https://p1.rs/XXXXX
+
+
+
+
+"Contact"
+
+- Black Land Soft
+- Hauptstr. 4, 74081 Heilbronn - Germany
+- E_Mail: info@blacklandsoft.com
+- Homepage: https://www.blacklandsoft.com
