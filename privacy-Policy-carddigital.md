@@ -2,7 +2,7 @@
 
 Card Digital Business App
 
-"Overview";
+"Overview"
 - The operator of this website and app is Black Land Soft. The phrases we, is used to refer to Black Land Soft. You, the user, are offered access to this website and app Card Digital, including all information, tools, and services available from this website and app, subject to your acceptance of all terms, conditions, policies, and notices mentioned here.
 - You engage in our Service by visiting our app or purchasing something from us, and you agree to be bound by the following terms and conditions Terms of Service, Terms, including such additional terms and conditions and policies linked herein and / or available by hyperlink. These Terms of Service apply to all site users, including, but not limited to, browsers, vendors, customers, merchants, and / or content contributors.
 - Before accessing or using our website, please read these Terms of Service thoroughly. By accessing or using any portion of this website or app, you accept these terms of service. If you do not agree to this agreement's terms and conditions in their entirety, you are not permitted to use the website or app or use any services.
