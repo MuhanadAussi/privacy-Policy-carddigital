@@ -67,5 +67,5 @@ const String onlineAppTerms10="- Upon deleting the account, all services will be
 - Black Land Soft
 - Hauptstr. 4, 74081 Heilbronn - Germany
 - E_Mail: info@blacklandsoft.com
-- Website App: https//www.carddb.de
+- Website App: https://www.carddb.de
 - Homepage company: https://www.blacklandsoft.com
