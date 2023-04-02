@@ -47,6 +47,11 @@ const String onlineAppTerms10="- Upon deleting the account, all services will be
 
 
 
+"Cookies policy"
+- No files or data are ever stored through the browser in your browser or device.
+
+
+
 
 "URL Scheme for developers"
 - In the event that the application Card Digital is already installed on the device, the link will open the account page through the application, but in the event that the application has not been installed on the phone, the link will open the account page direct to our website.
